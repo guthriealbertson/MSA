@@ -24,7 +24,7 @@ breaking many different components. When we use MSA this risk is lessened becaus
 ## Drawbacks/Costs of Microservices
 
 ### Technical:
-: MSA is a complex architecture to implement. This can become a huge burden on development teams and can end up costing more than 
+MSA is a complex architecture to implement. This can become a huge burden on development teams and can end up costing more than 
 benefiting an application if it doesn’t possess the need for an MSA. The development process, technical knowledge, and application 
 as a whole changes drastically when we switch from a traditional monolithic application to one with an MSA. Teams will also experience 
 increased autonomy and distribution of expertise which affects workplace culture and the development process. Any software development 
