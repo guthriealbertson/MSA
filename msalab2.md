@@ -1,5 +1,15 @@
 # MSA Lab 2 Containers
+## Table of contents
+<!--ts-->
+   * [Task 1. Hello World](#task-1-hello-world) 
+   * [Task 2. Build](#task-2-build) 
+   * [Task 3. Run](#task-3-run) 
+   * [Task 4. Debug](#task-4-debug) 
+   * [Task 5. Publish](#task-5-publish) 
+   * [Testing](#test) 
+<!--te--><br>
 
+## Before starting
 ![image](pics/0.1.png)<br>
 This command displays the active account that we are using to access the Google cloud platform. 
 
