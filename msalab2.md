@@ -1,3 +1,9 @@
+<style>
+   img {
+    border-radius: 25px;
+   }
+</style>
+
 # MSA Lab 2 Containers
 
 ![image](pics/0.1.png)<br>
